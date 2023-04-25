@@ -2,7 +2,7 @@
 
 > My buddy and I likely used to sticky notes because It's very useful when we need to write down sth.
 > All the things going very well, before reinstall the operating system cause of virus.
-> But he realized his all notes had disappeared and It was really painful, he lost all important data about 3 years.
+> Suddenly, he realized his all notes had disappeared and It was really painful, he lost all important data about 3 years.
 > I'm gonna tell u about the way to store sticky note data in GitHub.
 
 ---
